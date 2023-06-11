@@ -8,7 +8,8 @@ This is a web based application developed for health related  based website in i
 
 
 **Project Link** - https://sowjuu.github.io/projectfrt/index.html
-**Project Demo video link**-
+**Project Demo video link**-https://youtu.be/8ZJpInaMShQ
+
 AZURE TECHNOLOGIES USED FOR THIS PROJECT:
 ->static web apps
 ->Health bot
