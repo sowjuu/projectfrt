@@ -1,4 +1,4 @@
-# ✨ coiffeur a beauty  ✨
+# ✨ Coiffeur a Beauty  ✨
 
 
 This is a web based application developed for health related  based website in india
@@ -31,11 +31,19 @@ AZURE TECHNOLOGIES USED FOR THIS PROJECT:
  ![Screenshot 2023-06-11 123724](https://github.com/sowjuu/projectfrt/assets/118870639/63f1e3c3-fbe8-49fa-87ac-719a2a9eaa6a)
 ## HEALTHBOT
  ![Screenshot 2023-06-11 123834](https://github.com/sowjuu/projectfrt/assets/118870639/2bbea16d-48fa-4a87-80d6-dc057f9eed3f)
+ ![Screenshot 2023-06-11 125557](https://github.com/sowjuu/projectfrt/assets/118870639/07fff0b2-7cbe-4f6f-b4b1-0a0f3a47be4b)
+
 ## ABOUT US 
  ![Screenshot (12)](https://github.com/sowjuu/projectfrt/assets/118870639/37a2b724-1bc5-4e58-8950-a54365cd9e79)
 
 
+## Tech Stack 💻
 
+- Azure
+- HTML
+- CSS
+- Bootstrap
+- JavaScript
 
 
 
